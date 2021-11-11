@@ -1,0 +1,10 @@
+   "name": "Caesium",
+    "website": "https://caesium.pro",
+    "description": "CAES is creating a currency model that subverts the world, allowing small-capital investors to subvert the traditional asset investment in the rising lithium concentrate.",
+    "explorer": "https://polygonscan.com/address/0x5e25ebc64ee3d4dd6e6c3dfeb60d1941984b6658",
+    "type": "BEP20",
+    "symbol": "CAES",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5e25ebc64ee3d4dd6e6c3dfeb60d1941984b6658"
+}
